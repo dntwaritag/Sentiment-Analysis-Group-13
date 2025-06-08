@@ -27,8 +27,8 @@ Our repository is organized as follows:
 
 ```
 ├── individual_notebooks/
-│   ├── member1_notebook.ipynb
-│   ├── member2_notebook.ipynb
+│   ├── sentiment_analysis_lindah_nyambura.ipynb
+│   ├── SentimentAnalysis_Assignment_MKK.ipynb
 │   ├── member3_notebook.ipynb
 │   └── member4_notebook.ipynb
 ├── sentiment_analysis.ipynb
