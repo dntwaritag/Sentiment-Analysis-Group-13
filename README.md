@@ -118,7 +118,6 @@ To run the notebooks and reproduce our results, follow these steps:
 ## Future Work
 
 * Experiment with other deep learning architectures (e.g., Transformers, BERT-based models).
-* Explore more sophisticated text preprocessing techniques (e.g., advanced tokenization, custom stop word lists).
 * Conduct hyperparameter tuning more extensively for all models.
 * Investigate different word embedding techniques beyond GloVe (e.g., Word2Vec, FastText).
 * Implement explainable AI techniques to understand model predictions better.
