@@ -82,6 +82,7 @@ This project was a collaborative effort. Here's a breakdown of individual contri
     * **Deep Learning Models:** Bidirectional GRU
 * **Fidel Impano:**
     * **Traditional Models:** Logistic Regression
+    * Model Training using Deep Learning in Keras for separate: Simple Neural Net, CNN and LSTM Models and analyse model performance and results
 * **Denys Ntwaritaganzwa :**
     * *(To be updated: Please fill in Member 4's contributions here)*
 
