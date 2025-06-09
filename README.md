@@ -30,7 +30,7 @@ Our repository is organized as follows:
 │   ├── sentiment_analysis_lindah_nyambura.ipynb
 │   ├── SentimentAnalysis_Assignment_MKK.ipynb
 │   ├── member3_notebook.ipynb
-│   └── member4_notebook.ipynb
+│   └── sentiment_analysis_Denys-N.ipynb
 ├── sentiment_analysis.ipynb
 ├── README.md
 └── LICENSE
@@ -65,8 +65,10 @@ Our deep learning exploration included:
 
 * **Long Short-Term Memory (LSTM)**: A specialized type of RNN capable of learning long-term dependencies, particularly effective for sentiment analysis due to its ability to remember important information over extended sequences.
     * **LSTM with GloVe Embeddings and Attention**: This advanced LSTM variant leverages pre-trained GloVe word embeddings for richer semantic representations and incorporates an attention mechanism to allow the model to focus on the most relevant parts of the input sequence.
+    * **Bidirectional LSTM (BiLSTM)**: Deep Learning model using Keras to enhance the ability of the network to learn contextual information from both past and future tokens in review texts.
 * **Gated Recurrent Unit (GRU)**: A simplified version of LSTM, offering similar performance with fewer parameters, making it computationally more efficient.
     * **Bidirectional GRU**: This GRU variant processes the input sequence in both forward and backward directions, capturing context from both past and future words, which can significantly improve understanding of sentiment.
+
 
 ---
 
@@ -84,7 +86,8 @@ This project was a collaborative effort. Here's a breakdown of individual contri
     * **Traditional Models:** Logistic Regression
     * Model Training using Deep Learning in Keras for separate: Simple Neural Net, CNN and LSTM Models and analyse model performance and results
 * **Denys Ntwaritaganzwa :**
-    * *(To be updated: Please fill in Member 4's contributions here)*
+    * **Traditional Models:** Logistic Regression
+    * **Deep Learning Models:** BiLSTM model using embedding, bidirectional LSTM, dense layers with dropout regularization.
 
 ---
 
